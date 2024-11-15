@@ -1,0 +1,5 @@
+Order Details:
+Sandwich{breadType='white', size='4"', price=5.5}
+Drink{size='small', price=2.0}
+Chips{type='BBQ', price=1.5}
+Total: $9.00
