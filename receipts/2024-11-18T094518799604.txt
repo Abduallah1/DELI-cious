@@ -1,0 +1,4 @@
+Sandwich{breadType='white', size='4"', meatType='chicken', toasted=Yes, cutInHalf=Yes, price=$5.5}
+Drink{size='small', flavor='Cola', price=2.0}
+Drink{size='small', flavor='Water', price=2.0}
+Chips{type='BBQ', price=1.5}
